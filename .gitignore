@@ -25,3 +25,5 @@ go.work.sum
 .env
 template_api/
 my-cli-app
+stream
+reflexion.txt 
